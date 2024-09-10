@@ -25,7 +25,7 @@ Notes
 <h3>Clone the Repository:</h3>
 
 ```
-git clone https://github.com/AymanWolfX/instaFollowers.StalkMe.git
+git clone https://github.com/AymanJanati/instaFollowers.StalkMe.git
 cd instaFollowers.StalkMe
 ```
 
